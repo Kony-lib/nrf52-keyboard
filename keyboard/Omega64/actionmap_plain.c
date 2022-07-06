@@ -36,7 +36,7 @@ const action_t actionmaps[][MATRIX_ROWS][MATRIX_COLS] = {
 		TAB, Q, W, E, R, T, Y, U, I, O, P, LBRC, RBRC, BSLS, 
 		CAPS, A, S, D, F, G, H, J, K, L, SCLN, QUOT, ENT, 
 		LSFT, Z, X, C, V, B, N, M, COMM, DOT, SLSH, DEL, UP, RSFT, 
-		LCTL, LGUI, LALT, SPC, FN0, FN1, LEFT, DOWN, RGHT),
+		LCTL, DEL, LALT, SPC, FN0, FN1, LEFT, DOWN, RGHT),
 
 	[1] = ACTIONMAP(
 		GRV, F1, F2, F3, F4, F5, F6, F7, F8, F9, F10, F11, F12, TRNS, 
